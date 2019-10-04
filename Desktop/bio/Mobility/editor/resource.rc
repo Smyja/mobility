@@ -1,0 +1,29 @@
+#include<windows.h>
+#include "define.h"
+ICO ICON "mobicon.ico"
+ICO1 ICON "open.ico"
+ICO2 ICON "plus.ico"
+ICO3 ICON "save.ico"
+ICO4 ICON "saveas.ico"
+ICO5 ICON "up.ico"
+ICO6 ICON "down.ico"
+ICO7 ICON "thumb.ico"
+ICO8 ICON "left.ico"
+ICO9 ICON "right.ico"
+ICO10 ICON "thumb1.ico"
+BIT BITMAP "caret.bmp"
+MAIN MENU DISCARDABLE
+{
+POPUP "&File"
+ {
+MENUITEM "&New file\tCtrl+N",NEW
+MENUITEM "&Open file\tCtrl+O",NEW
+MENUITEM "&New Project\tCtrl+N",NEW
+MENUITEM "&Open Project\tCtrl+O",NEW
+MENUITEM "&Save Project\tCtrl+S",NEW
+MENUITEM "S&ave Project As\tCtrl+Shift+S",NEW
+MENUITEM "&Exit\tAlt+F4",NEW
+ }
+
+
+}

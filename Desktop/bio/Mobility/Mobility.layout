@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="mobility.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="wind.h" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16829" topLine="308" />
+		</Cursor>
+	</File>
+	<File name="steelon.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13203" topLine="372" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
+[Editors]
+Order=0,1,2,3,4,6,8,7,10,9,11,12,5,13
+Focused=4
+[Editor_0]
+CursorCol=73
+CursorRow=512
+TopLine=484
+LeftChar=1
+[Editor_4]
+CursorCol=20
+CursorRow=6
+TopLine=904
+LeftChar=1
+[Editor_7]
+CursorCol=37
+CursorRow=928
+TopLine=930
+LeftChar=1
+[Editor_8]
+CursorCol=22
+CursorRow=40
+TopLine=482
+LeftChar=2
+[Editor_1]
+CursorCol=1
+CursorRow=34
+TopLine=1
+LeftChar=1
+[Editor_3]
+CursorCol=8
+CursorRow=647
+TopLine=632
+LeftChar=1
+[Editor_6]
+CursorCol=19
+CursorRow=659
+TopLine=682
+LeftChar=1
+[Editor_9]
+CursorCol=12
+CursorRow=8
+TopLine=1
+LeftChar=1
+[Editor_10]
+CursorCol=23
+CursorRow=149
+TopLine=115
+LeftChar=1
+[Editor_12]
+CursorCol=40
+CursorRow=133
+TopLine=115
+LeftChar=1
+[Editor_13]
+CursorCol=1
+CursorRow=48
+TopLine=33
+LeftChar=1
+[Editor_11]
+CursorCol=5
+CursorRow=1405
+TopLine=1381
+LeftChar=1
+[Editor_2]
+CursorCol=1
+CursorRow=48
+TopLine=25
+LeftChar=1
+[Editor_5]
+CursorCol=31
+CursorRow=94
+TopLine=75
+LeftChar=1
+[Editor_14]
+CursorCol=9
+CursorRow=6
+TopLine=1
+LeftChar=1
+[Editor_15]
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1507558792 source:c:\crystal programs\mobility\mobility.cpp
+	<windows.h>
+	"define.h"
+
+1507648840 c:\crystal programs\mobility\define.h
+	<stdio.h>
+	<process.h>
+	<shellapi.h>
+	"steelon.h"
+	"wind.h"
+	"uparg.h"
+	"play.h"
+	"animation.h"
+	"color.h"
+	"group.h"
+	"predetate.h"
+	"load.h"
+
+1507623610 c:\crystal programs\mobility\steelon.h
+	<stdio.h>
+	<windows.h>
+	<math.h>
+
+1507620514 c:\crystal programs\mobility\wind.h
+
+1507564616 c:\crystal programs\mobility\uparg.h
+
+1507648840 c:\crystal programs\mobility\play.h
+
+1507564310 c:\crystal programs\mobility\animation.h
+
+1507299228 c:\crystal programs\mobility\color.h
+
+1507617784 c:\crystal programs\mobility\group.h
+
+1506631202 c:\crystal programs\mobility\predetate.h
+
+1507563984 c:\crystal programs\mobility\load.h
+
+1505314862 source:c:\crystal programs\mobility\resource.rc
+	<windows.h>
+	"define.h"
+

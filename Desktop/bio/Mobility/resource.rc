@@ -1,0 +1,103 @@
+#include<windows.h>
+#include "define.h"
+ICO ICON "mobility.ico"
+BONE ICON "bone.ico"
+ICO1 ICON "play.ico"
+ICO2 ICON "plus.ico"
+ICO3 ICON "minus.ico"
+ICO4 ICON "eye.ico"
+ICO5 ICON "times.ico"
+ICO6 ICON "open.ico"
+ICO7 ICON "add.ico"
+ICO8 ICON "animate.ico"
+ICO9 ICON "save.ico"
+ICO10 ICON "saveas.ico"
+ICO11 ICON "newp.ico"
+ICO12 ICON "pause.ico"
+ICO13 ICON "stop.ico"
+ICO14 ICON "build.ico"
+ICO15 ICON "buildset.ico"
+ICO16 ICON "arrow.ico"
+ICO17 ICON "folder.ico"
+ICO18 ICON "inc.ico"
+ICO19 ICON "bad.ico"
+BIT BITMAP "splash\\cryst.bmp"
+CRT BITMAP "layer.bmp"
+CUR CURSOR "3d.cur"
+CUR1 CURSOR "increase.cur"
+
+FTY CURSOR "selet.cur"
+FTY1 CURSOR "selet1.cur"
+FTY2 CURSOR "selet2.cur"
+FTY3 CURSOR "selet3.cur"
+FTY4 CURSOR "selet4.cur"
+FTY5 CURSOR "selet5.cur"
+FTY6 CURSOR "selet6.cur"
+FTY7 CURSOR "selet7.cur"
+FTY8 CURSOR "selet8.cur"
+FTY9 CURSOR "selet9.cur"
+FTY10 CURSOR "selet10.cur"
+
+
+SKY BITMAP "front.bmp"
+SKY1 BITMAP "left.bmp"
+SKY2 BITMAP "down.bmp"
+SKY3 BITMAP "up.bmp"
+SKY4 BITMAP "right.bmp"
+SKY5 BITMAP "back.bmp"
+SPRITE BITMAP "sprite.bmp"
+
+
+WIT2 BITMAP "splash\\2.bmp"
+WIT3 BITMAP "splash\\3.bmp"
+WIT4 BITMAP "splash\\4.bmp"
+WIT5 BITMAP "splash\\5.bmp"
+WIT6 BITMAP "splash\\6.bmp"
+WIT7 BITMAP "splash\\7.bmp"
+WIT8 BITMAP "splash\\8.bmp"
+WIT9 BITMAP "splash\\9.bmp"
+WIT10 BITMAP "splash\\10.bmp"
+WIT11 BITMAP "splash\\11.bmp"
+WIT12 BITMAP "splash\\12.bmp"
+WIT13 BITMAP "splash\\13.bmp"
+WIT14 BITMAP "splash\\14.bmp"
+WIT15 BITMAP "splash\\15.bmp"
+WIT16 BITMAP "splash\\16.bmp"
+WIT17 BITMAP "splash\\17.bmp"
+WIT18 BITMAP "splash\\18.bmp"
+WIT19 BITMAP "splash\\19.bmp"
+WIT20 BITMAP "splash\\20.bmp"
+WIT21 BITMAP "splash\\21.bmp"
+WIT22 BITMAP "splash\\22.bmp"
+WIT23 BITMAP "splash\\23.bmp"
+WIT24 BITMAP "splash\\24.bmp"
+WIT25 BITMAP "splash\\25.bmp"
+
+
+MAIN MENU DISCARDABLE
+{
+POPUP "&File"
+ {
+MENUITEM "&New file\tCtrl+N",NEW
+MENUITEM "&Open file\tCtrl+O",NEW
+MENUITEM "&New Project\tCtrl+N",NEW
+MENUITEM "&Open Project\tCtrl+O",NEW
+MENUITEM "&Save Project\tCtrl+S",NEW
+MENUITEM "S&ave Project As\tCtrl+Shift+S",NEW
+MENUITEM "&Exit\tAlt+F4",NEW
+ }
+}
+
+CREAT MENU DISCARDABLE
+{
+	POPUP "&Create"
+	{
+	MENUITEM "Pivot",PIVOT
+	MENUITEM SEPARATOR
+	MENUITEM "&Plane",PLANE
+	MENUITEM "&Cube",CUBE
+	MENUITEM "&Sphere",SPHERE
+	MENUITEM "C&ircle",CIRCLE
+	MENUITEM "ICO-Sphere",ICSPHERE
+}
+}
